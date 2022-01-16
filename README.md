@@ -29,4 +29,11 @@ The following list of files contains the relevant information as it pertains to 
 3. The app.py file used to create the flask app
 4. The index.html file in the template folder and CSS stylesheets in the static folder.
 
-A preview of the html is displayed in the image below.
+A preview of the created web app is displayed in the image below.
+
+<img width="734" alt="im1" src="https://user-images.githubusercontent.com/92636438/149673359-efda0c55-4a65-4100-9d05-65ab35656792.png">
+
+<img width="751" alt="im2" src="https://user-images.githubusercontent.com/92636438/149673369-0fcdcb8a-bcb4-46fc-ae23-c4fb89e3fc6e.png">
+
+
+
